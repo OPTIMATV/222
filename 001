@@ -1,0 +1,640 @@
+#EXTM3U
+#EXTINF:0,Afizzionados
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/2120
+
+#EXTINF:0,ESPN Extra
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=167&p=3&k=srregio&f=.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=168&p=3&k=srregio&f=.m3u8
+#EXTINF:-1,AU: ESPN HD 1
+http://ingrid.ltd:25461/Cc1/Cc1/40905
+#EXTINF:0,ESPN 2
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=169&p=3&k=srregio&f=.m3u8
+#EXTINF:0,FOX Sports
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=170&p=3&k=srregio&f=.m3u8
+#EXTINF:0,FOX Sports 2
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=172&p=3&k=srregio&f=.m3u8
+#EXTINF:0,FOX Sports3
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=178&p=3&k=srregio&f=.m3u8
+
+#EXTINF:0,TUDN 
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=1049&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, TUDN
+http://ingrid.ltd:25461/Cc1/Cc1/41481
+#EXTINF:-1, TUDN (usa)
+http://ingrid.ltd:25461/Cc1/Cc1/41482
+#EXTINF:0,CLARO Sports
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+#EXTINF:-1,TVC Deportes
+http://ingrid.ltd:25461/Cc1/Cc1/18760
+
+#EXTINF:-1, Gol TV
+http://ingrid.ltd:25461/Cc1/Cc1/39986
+
+
+#EXTINF:-1, Eurosports 1 FHD 
+http://ingrid.ltd:25461/Cc1/Cc1/3517
+#EXTINF:-1,Eurosports 2 HD
+http://ingrid.ltd:25461/Cc1/Cc1/3516
+#EXTINF:-1, Eurosport 2
+http://ingrid.ltd:25461/Cc1/Cc1/40024
+
+#EXTINF:-1, beIN Sports 1
+http://ingrid.ltd:25461/Cc1/Cc1/40908
+#EXTINF:-1, beIN Sports 2
+http://ingrid.ltd:25461/Cc1/Cc1/40907
+#EXTINF:-1, beIN Sports 3
+http://ingrid.ltd:25461/Cc1/Cc1/40906
+
+#EXTINF:-1, Movistar La Liga
+http://ingrid.ltd:25461/Cc1/Cc1/39958
+#EXTINF:-1, Movistar Deportes 1 HD
+http://ingrid.ltd:25461/Cc1/Cc1/39971
+#EXTINF:-1, Movistar Formula 1
+http://ingrid.ltd:25461/Cc1/Cc1/39959
+#EXTINF:-1,ES: Movistar Golf
+http://ingrid.ltd:25461/Cc1/Cc1/39957
+
+#EXTINF:-1,AU: Fox Sports HD 501
+http://ingrid.ltd:25461/Cc1/Cc1/40903
+#EXTINF:-1,AU: Fox Sports HD 502
+http://ingrid.ltd:25461/Cc1/Cc1/40902
+#EXTINF:-1,AU: Fox Sports HD 503
+http://ingrid.ltd:25461/Cc1/Cc1/40901
+#EXTINF:-1,AU: Fox Sports HD 504
+http://ingrid.ltd:25461/Cc1/Cc1/40900
+#EXTINF:-1,AU: Fox Sports HD 505
+http://ingrid.ltd:25461/Cc1/Cc1/40899
+#EXTINF:-1,AU: Fox Sports HD 506
+http://ingrid.ltd:25461/Cc1/Cc1/40898
+#EXTINF:-1,AU: Fox Sports HD 507
+http://ingrid.ltd:25461/Cc1/Cc1/40897
+
+#EXTINF:-1,AU: Fox Sports News HD
+http://ingrid.ltd:25461/Cc1/Cc1/40896
+
+#EXTINF:-1,AU: Racing.com
+http://ingrid.ltd:25461/Cc1/Cc1/40895
+
+#EXTINF:0,NBC GOLF
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=179&p=3&k=srregio&f=.m3u8
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://ingrid.ltd:25461/Cc1/Cc1/25174
+
+#EXTINF:-1, MLB Network 
+http://ingrid.ltd:25461/Cc1/Cc1/67336
+
+#EXTINF:0,NFL Channel
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,DUBAI Racing
+#EXTGRP:unsorted
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Red Bull TV
+#EXTGRP:unsorted
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1, UK: Box Nation HD 
+http://ingrid.ltd:25461/Cc1/Cc1/12355
+
+#EXTINF:-1,UK: BT Sports ESPN
+http://ingrid.ltd:25461/Cc1/Cc1/3396
+
+#EXTINF:-1,UK: RACING HD
+http://ingrid.ltd:25461/Cc1/Cc1/23486
+
+#EXTINF:-1,UK: Sky Sports Action FHD
+http://ingrid.ltd:25461/Cc1/Cc1/25176
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://ingrid.ltd:25461/Cc1/Cc1/7949
+
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://ingrid.ltd:25461/Cc1/Cc1/7947
+
+#EXTINF:0,Big Sky Conference
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=752&deviceId=59641d9173ac1fec2fc01f17&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,World Poker Tour
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=770&deviceId=5616f9c0ada51f8004c4b091&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,GLORY Kickboxing
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+#EXTINF:-1, Baby TV
+http://ingrid.ltd:25461/Cc1/Cc1/3360
+
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=113&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, Disney Channel HD
+http://ingrid.ltd:25461/Cc1/Cc1/40000
+
+#EXTINF:-1, Boing
+http://ingrid.ltd:25461/Cc1/Cc1/3356
+#EXTINF:-1, Canal Panda
+http://ingrid.ltd:25461/Cc1/Cc1/40012
+#EXTINF:-1, Disney Junior
+http://ingrid.ltd:25461/Cc1/Cc1/39999
+#EXTINF:-1, Disney XD
+http://ingrid.ltd:25461/Cc1/Cc1/3327
+
+#EXTINF:0,Pluto TV Kids
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:0,Cronica HD - 24.4
+#EXTGRP:unsorted
+https://g3.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+#EXTINF:0,Excelsior TV
+#EXTGRP:unsorted
+http://tvpremiumhd.club/lista-gratuita/210013/on/tp.php?id=1449
+
+#EXTINF:0,Vibe TV
+#EXTGRP:unsorted
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+
+#EXTINF:0,Milenio
+#EXTGRP:unsorted
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+
+#EXTINF:0,NBC News
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=212&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,CNN
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1, EuroNews
+http://ingrid.ltd:25461/Cc1/Cc1/39994
+
+
+
+#EXTINF:-1, Las Estrellas HD 
+http://ingrid.ltd:25461/Cc1/Cc1/18832
+#EXTINF:-1, CANAL 5
+http://ingrid.ltd:25461/Cc1/Cc1/18912
+#EXTINF:0,A mas
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2316&p=3&k=srregio&f=.m3u8#EXTINF:-1,MX: (HD) TP CANAL 5
+http://ingrid.ltd:25461/Cc1/Cc1/18912
+#EXTINF:-1, Azteca 7 HD
+http://ingrid.ltd:25461/Cc1/Cc1/17738
+#EXTINF:-1, Azteca UNO HD
+http://ingrid.ltd:25461/Cc1/Cc1/23039
+#EXTINF:-1, ADN 40
+http://ingrid.ltd:25461/Cc1/Cc1/18939
+#EXTINF:-1, Galavision HD
+http://ingrid.ltd:25461/Cc1/Cc1/12594
+#EXTINF:-1, Multimedios Monterrey HD
+http://ingrid.ltd:25461/Cc1/Cc1/5807
+#EXTINF:-1, Canal Once HD
+http://ingrid.ltd:25461/Cc1/Cc1/13028
+#EXTINF:-1,MX: Multimedios Plus HD
+http://ingrid.ltd:25461/Cc1/Cc1/40081
+#EXTINF:0,TV mas
+#EXTGRP:unsorted
+http://regioflix.club/Sr_Regio20/tp.php?c=2324&p=3&k=srregio&f=.m3u8
+#EXTINF:0,Canal 10 Cancun
+#EXTGRP:unsorted
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,RCG 1 Saltillo
+#EXTGRP:unsorted
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1, Imagen HD
+http://ingrid.ltd:25461/Cc1/Cc1/17741
+
+
+#EXTINF:-1, tve
+http://ingrid.ltd:25461/Cc1/Cc1/39974
+#EXTINF:-1, La 1
+http://ingrid.ltd:25461/Cc1/Cc1/39980
+#EXTINF:-1, La 2 
+http://ingrid.ltd:25461/Cc1/Cc1/3304
+#EXTINF:-1, Antena 3 HD
+http://ingrid.ltd:25461/Cc1/Cc1/40028
+#EXTINF:-1, A3 Series HD
+http://ingrid.ltd:25461/Cc1/Cc1/40032
+#EXTINF:0,Cuatro HD
+#EXTGRP:unsorted
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+#EXTINF:0,Telecinco HD
+#EXTGRP:unsorted
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+#EXTINF:0,FDF
+#EXTGRP:unsorted
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+#EXTINF:0,TEN
+#EXTGRP:unsorted
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+#EXTINF:-1, Aragon TV
+http://ingrid.ltd:25461/Cc1/Cc1/40027
+
+#EXTINF:-1, 0
+http://ingrid.ltd:25461/Cc1/Cc1/40036
+#EXTINF:-1,13 TV
+http://ingrid.ltd:25461/Cc1/Cc1/40034
+#EXTINF:-1, Andalucia TV
+http://ingrid.ltd:25461/Cc1/Cc1/40030
+#EXTINF:-1, DKiss TV
+http://ingrid.ltd:25461/Cc1/Cc1/39997
+#EXTINF:-1, Energy
+http://ingrid.ltd:25461/Cc1/Cc1/39996
+#EXTINF:-1, Nova
+http://ingrid.ltd:25461/Cc1/Cc1/39933
+#EXTINF:-1, Divinity
+http://ingrid.ltd:25461/Cc1/Cc1/39998
+
+
+#EXTINF:0, America HD (Arg)
+#EXTGRP:unsorted
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0, Canal 26 HD (Arg)
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0,Canal UCR
+#EXTGRP:unsorted
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+#EXTINF:0,Euro Latina TV
+#EXTGRP:unsorted
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:0,Television del Este
+#EXTGRP:unsorted
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Telemax HD
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+#EXTINF:0,TeleSur
+#EXTGRP:unsorted
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0,Latinos UP
+#EXTGRP:unsorted
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+#EXTINF:0,Wow TV
+#EXTGRP:unsorted
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,UK: GOLD FHD
+http://ingrid.ltd:25461/Cc1/Cc1/3416
+#EXTINF:-1,UK: BBC 4 HD
+http://ingrid.ltd:25461/Cc1/Cc1/3447
+
+#EXTINF:0,DW Latin America
+#EXTGRP:unsorted
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&amp;
+#EXTINF:0,France 24
+#EXTGRP:unsorted
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:-1, TV5 (Francia)
+http://ingrid.ltd:25461/Cc1/Cc1/18761
+#EXTINF:-1, ANT1 (Grecia)
+http://ingrid.ltd:25461/Cc1/Cc1/41005
+#EXTINF:-1, Attica (Grecia)
+http://ingrid.ltd:25461/Cc1/Cc1/41004
+#EXTINF:0,NASA Public
+#EXTGRP:unsorted
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0,New Orleans TV
+#EXTGRP:unsorted
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0, AB Channel (Italia)
+#EXTGRP:unsorted
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
+
+
+
+
+#EXTINF:0, FOX Action
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/11
+#EXTINF:-1, Fox Action HD
+http://ingrid.ltd:25461/Cc1/Cc1/17784
+#EXTINF:-1, Fox Cinema HD
+http://ingrid.ltd:25461/Cc1/Cc1/17783
+#EXTINF:0,FOX Classics
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/14
+#EXTINF:-1, Fox Classics HD
+http://ingrid.ltd:25461/Cc1/Cc1/17782
+#EXTINF:0, FOX Comedy
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/15
+#EXTINF:0, FOX Family
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/16
+#EXTINF:-1, Fox Series HD
+http://ingrid.ltd:25461/Cc1/Cc1/16735
+
+#EXTINF:0, GOLDEN Premier
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/19
+#EXTINF:-1, GOLDEN HD
+http://ingrid.ltd:25461/Cc1/Cc1/18844
+#EXTINF:-1,GOLDEN Edge HD
+http://ingrid.ltd:25461/Cc1/Cc1/18843
+#EXTINF:-1 GOLDEN Plus HD
+http://ingrid.ltd:25461/Cc1/Cc1/18842
+
+#EXTINF:-1, De Pelicula HD
+http://ingrid.ltd:25461/Cc1/Cc1/16720
+
+#EXTINF:0, HBO 1 
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/21
+#EXTINF:0, HBO 2 
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/22
+#EXTINF:0,HBO Family 
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/23
+#EXTINF:-1, HBO Family HD
+http://ingrid.ltd:25461/Cc1/Cc1/17742
+#EXTINF:-1, HBO Plus HD
+http://ingrid.ltd:25461/Cc1/Cc1/17750
+#EXTINF:0, HBO Plus 
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/25
+#EXTINF:0, HBO Mundi
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/24
+#EXTINF:0, HBO Xtreme
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/26
+#EXTINF:-1,HBO Signature (East)
+http://ingrid.ltd:25461/Cc1/Cc1/5880
+#EXTINF:-1,MX: HBO Signature HD
+http://ingrid.ltd:25461/Cc1/Cc1/17749
+
+#EXTINF:-1, Movistar Accion
+http://ingrid.ltd:25461/Cc1/Cc1/39970
+#EXTINF:-1, Movistar Cine
+http://ingrid.ltd:25461/Cc1/Cc1/39968
+#EXTINF:-1, Movistar Estrenos
+http://ingrid.ltd:25461/Cc1/Cc1/39967
+#EXTINF:-1, Movistar Series
+http://ingrid.ltd:25461/Cc1/Cc1/39965
+#EXTINF:-1, Movistar Drama FHD
+http://ingrid.ltd:25461/Cc1/Cc1/39961
+
+
+#EXTINF:-1, Taquilla 1 
+http://ingrid.ltd:25461/Cc1/Cc1/39925
+#EXTINF:-1, Taquilla 2 
+http://ingrid.ltd:25461/Cc1/Cc1/39920
+#EXTINF:-1, Taquilla 3 
+http://ingrid.ltd:25461/Cc1/Cc1/39919
+#EXTINF:-1, Taquilla 4 
+http://ingrid.ltd:25461/Cc1/Cc1/39918
+#EXTINF:-1, Taquilla 5 
+http://ingrid.ltd:25461/Cc1/Cc1/39917
+#EXTINF:-1, Taquilla 6 
+http://ingrid.ltd:25461/Cc1/Cc1/39916
+#EXTINF:-1, Taquilla 7 
+http://ingrid.ltd:25461/Cc1/Cc1/39915
+#EXTINF:-1, Taquilla 8 
+http://ingrid.ltd:25461/Cc1/Cc1/39914
+#EXTINF:-1, Taquilla 9 
+http://ingrid.ltd:25461/Cc1/Cc1/39913
+#EXTINF:-1, Taquilla 10 
+http://ingrid.ltd:25461/Cc1/Cc1/39924
+#EXTINF:-1, Taquilla 11 
+http://ingrid.ltd:25461/Cc1/Cc1/39923
+#EXTINF:-1, Taquilla 12 
+http://ingrid.ltd:25461/Cc1/Cc1/39922
+
+
+#EXTINF:0, MULTIPREMIER 
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/28
+#EXTINF:-1, MEGA 
+http://ingrid.ltd:25461/Cc1/Cc1/28573
+#EXTINF:-1, Paramount Channel
+http://ingrid.ltd:25461/Cc1/Cc1/3306
+#EXTINF:-1, Europa EUROPA HD
+http://ingrid.ltd:25461/Cc1/Cc1/12958
+#EXTINF:0, EURO Channel 
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/70
+
+#EXTINF:-1, Hollywood HD
+http://ingrid.ltd:25461/Cc1/Cc1/39981
+#EXTINF:-1, Sundance TV
+http://ingrid.ltd:25461/Cc1/Cc1/39927
+#EXTINF:-1, SyFy 
+http://ingrid.ltd:25461/Cc1/Cc1/39926
+#EXTINF:-1, TCM
+http://ingrid.ltd:25461/Cc1/Cc1/39912
+#EXTINF:-1, TNT
+http://ingrid.ltd:25461/Cc1/Cc1/39909
+#EXTINF:-1,MX: Space HD
+http://ingrid.ltd:25461/Cc1/Cc1/16721
+#EXTINF:0,FMTV HD
+#EXTGRP:unsorted
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  DINAMITA SD*" tvg-logo="" group-title="CINEMA",CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CLARO CINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/8
+#EXTINF:0,Classic Movies Channel
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1, Clan TVE
+http://ingrid.ltd:25461/Cc1/Cc1/40009
+#EXTINF:-1, A&E HD
+http://ingrid.ltd:25461/Cc1/Cc1/17796
+#EXTINF:-1, AXN HD
+http://ingrid.ltd:25461/Cc1/Cc1/16723
+#EXTINF:-1, AXN White
+http://ingrid.ltd:25461/Cc1/Cc1/40025
+#EXTINF:-1, AMC HD
+http://ingrid.ltd:25461/Cc1/Cc1/40031
+#EXTINF:-1, E! Entertainment HD
+http://ingrid.ltd:25461/Cc1/Cc1/17788
+#EXTINF:-1, Warner HD
+http://ingrid.ltd:25461/Cc1/Cc1/17755
+#EXTINF:-1, Fox HD
+http://ingrid.ltd:25461/Cc1/Cc1/3321
+#EXTINF:-1, Fox Life HD
+http://ingrid.ltd:25461/Cc1/Cc1/39989
+#EXTINF:-1, Sony Channel HD
+http://ingrid.ltd:25461/Cc1/Cc1/17765
+#EXTINF:-1, Tru TV HD
+http://ingrid.ltd:25461/Cc1/Cc1/17762
+#EXTINF:-1, Universal Channel HD
+http://ingrid.ltd:25461/Cc1/Cc1/17757
+#EXTINF:-1, ISAT
+http://ingrid.ltd:25461/Cc1/Cc1/18834
+#EXTINF:-1,Lifetime
+http://ingrid.ltd:25461/Cc1/Cc1/18830
+#EXTINF:-1,MAS Chic
+http://ingrid.ltd:25461/Cc1/Cc1/18829
+
+
+#EXTINF:-1, Cosmo HD
+http://ingrid.ltd:25461/Cc1/Cc1/3334
+#EXTINF:-1, Crimen & Investigación
+http://ingrid.ltd:25461/Cc1/Cc1/40005
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FASHION ONE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/56
+#EXTINF:0,Pluto TV Gamer
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=801&deviceId=5ca7f16c37b88b2694731c79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1, Animal Planet 
+http://ingrid.ltd:25461/Cc1/Cc1/17743
+#EXTINF:-1, Discovery 
+http://ingrid.ltd:25461/Cc1/Cc1/40001
+#EXTINF:-1, Discovery Turbo HD
+http://ingrid.ltd:25461/Cc1/Cc1/16725
+#EXTINF:-1, Discovery Theater HD
+http://ingrid.ltd:25461/Cc1/Cc1/16752
+#EXTINF:-1, Investigation Discovery HD
+http://ingrid.ltd:25461/Cc1/Cc1/16724
+
+#EXTINF:-1, Discovery H&H
+http://ingrid.ltd:25461/Cc1/Cc1/18884
+#EXTINF:-1, Discovery Science
+http://ingrid.ltd:25461/Cc1/Cc1/18880
+#EXTINF:-1 Discovery Theater
+http://ingrid.ltd:25461/Cc1/Cc1/18879
+#EXTINF:-1 Discovery World
+http://ingrid.ltd:25461/Cc1/Cc1/18877
+#EXTINF:0, History
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/42
+#EXTINF:-1 Historia (España)
+http://ingrid.ltd:25461/Cc1/Cc1/3319
+#EXTINF:0, H2 
+#EXTGRP:unsorted
+http://zufreelist.net:8080/dQZWUoSpfI/0nzOFvFmZy/41
+#EXTINF:-1, Odisea HD
+http://ingrid.ltd:25461/Cc1/Cc1/39932
+#EXTINF:-1, Travel HD
+http://ingrid.ltd:25461/Cc1/Cc1/5906
+#EXTINF:-1, Nat Geo HD
+http://ingrid.ltd:25461/Cc1/Cc1/3326
+#EXTINF:-1, Nat Geo Wild HD
+http://ingrid.ltd:25461/Cc1/Cc1/39938
+
+#EXTINF:0,Pluto TV Animals
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:0,Voyager Documentaries
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=681&deviceId=589aa03df9ba56a84197a560&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1, Iberalia TV
+http://ingrid.ltd:25461/Cc1/Cc1/3317
+#EXTINF:-1, Viajar FHD
+http://ingrid.ltd:25461/Cc1/Cc1/3296
+#EXTINF:-1, Canal Decasa
+http://ingrid.ltd:25461/Cc1/Cc1/40014
+#EXTINF:0,Smash Food
+#EXTGRP:unsorted
+http://a3.smashmalta.com:82/live/smash/smash/16.ts
+#EXTINF:-1, EL Gourmet HD
+http://ingrid.ltd:25461/Cc1/Cc1/16755
+
+#EXTINF:-1,ES: Canal Cocina
+http://ingrid.ltd:25461/Cc1/Cc1/40015
+
+#EXTINF:0,Food TV
+#EXTGRP:unsorted
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=601&deviceId=5877ac8cb791f4eb4a140d81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1, Unicable HD
+http://ingrid.ltd:25461/Cc1/Cc1/17807
+
+
+
+
+#EXTINF:-1,Telehit Plus FHD
+http://ingrid.ltd:25461/Cc1/Cc1/40878
+#EXTINF:-1, MTV
+http://ingrid.ltd:25461/Cc1/Cc1/3311
+#EXTINF:-1, MTV HD
+http://ingrid.ltd:25461/Cc1/Cc1/3662
+#EXTINF:-1, MTV 2 (East)
+http://ingrid.ltd:25461/Cc1/Cc1/19738
+#EXTINF:-1, MTV 2 (West)
+http://ingrid.ltd:25461/Cc1/Cc1/42561
+#EXTINF:-1, MTV Classic
+http://ingrid.ltd:25461/Cc1/Cc1/40922
+#EXTINF:-1, MTV U
+http://ingrid.ltd:25461/Cc1/Cc1/40923
+#EXTINF:-1, MTV CLASSIC
+http://ingrid.ltd:25461/Cc1/Cc1/3157
+#EXTINF:-1, MTV Hits
+http://ingrid.ltd:25461/Cc1/Cc1/3372
+#EXTINF:-1, MTV Rocks
+http://ingrid.ltd:25461/Cc1/Cc1/3154
+#EXTINF:-1, MTV Live
+http://ingrid.ltd:25461/Cc1/Cc1/18828
+#EXTINF:-1, VH1
+http://ingrid.ltd:25461/Cc1/Cc1/39899
+#EXTINF:0,Classic Arts Showcase
+#EXTGRP:unsorted
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1, STINGRAY Classica
+http://ingrid.ltd:25461/Cc1/Cc1/40008
+#EXTINF:0, Carina TV
+#EXTGRP:unsorted
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1,ES: Mezzo Live FHD
+http://ingrid.ltd:25461/Cc1/Cc1/39972
+#EXTINF:0,M2O TV 
+#EXTGRP:unsorted
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,CafèTV 24
+#EXTGRP:unsorted
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+#EXTINF:0,Company TV
+#EXTGRP:unsorted
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:0,Music Top
+#EXTGRP:unsorted
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w607515073_b2028000_sleng.m3u8
+#EXTINF:0,Otto FM TV
+#EXTGRP:unsorted
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
+#EXTINF:0,CANAL 88 Stereo
+#EXTGRP:unsorted
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:0, Euro Indie Music Chart TV
+#EXTGRP:unsorted
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:0, FM Italia TV
+#EXTGRP:unsorted
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+#EXTINF:0, 51 Radio TV
+#EXTGRP:unsorted
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:0, Radio Capital TV
+#EXTGRP:unsorted
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&amp;
+#EXTINF:0,Loca FM Ambient
+#EXTGRP:unsorted
+http://audio-online.net:8007/live
+#EXTINF:0,Loca FM Chill out
+#EXTGRP:unsorted
+http://audio-online.net:8002/live
+#EXTINF:0,Loca FM Trance
+#EXTGRP:unsorted
+http://audio-online.net:8010/live
+#EXTINF:0,Loca FM House
+#EXTGRP:unsorted
+http://audio-online.net:8005/live
+#EXTINF:0,Loca FM Tech House
+#EXTGRP:unsorted
+http://audio-online.net:8008/live
