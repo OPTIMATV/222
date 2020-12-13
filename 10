@@ -1,0 +1,352 @@
+#EXTM3U
+
+	Deportes
+	--------
+
+
+
+#EXTINF:0,Fight time (UFC)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+
+#EXTINF:0,DUBAI Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/DubaiSports.png" group-title="DEPORTES",Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8?xtreamiptv.m3u8
+
+	Noticias
+	--------
+
+
+
+
+	Nacionales
+	----------
+
+
+
+#EXTINF:0,Canal 10 Cancun 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:0,RCG 1 Saltillo
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+
+
+
+
+	Internacionales	
+	---------------
+
+
+#EXTINF:0,NASA Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:0,New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="CINE - A3S Series (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-nYXXZBWn3K8/Xbf03udfliI/AAAAAAAAAuQ/TbR_EaUFPp4owroSxx09nXC7CHvvW1q0ACLcBGAsYHQ/s200/58.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A3S Series (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/5339
+
+
+#EXTINF:0,Cuatro
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+
+#EXTINF:0,Telecinco
+https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
+
+
+#EXTINF:0,Television del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+
+
+#EXTINF:0,TeleSur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:0,Extrema TV HD
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:0,Telemax HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+#EXTINF:0,Canal UCR
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+
+#EXTINF:0,ARGENTINA:America HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:0,ARG Canal 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+
+#EXTINF:0,Euro Latina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+
+#EXTINF:0,Latinos UP
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title = "MUSICA", Miami Tv México
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
+#EXTINF:-1 ,Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+
+	Movies
+	------
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="CINE - Fox Premium Action (M)(720)" tvg-logo="https://1.bp.blogspot.com/-uNTrgaTVx8s/XaokWzZ50-I/AAAAAAAAAVk/CfjRcLTCspYo5uGCrtLeiFO-4RWONNJIgCLcBGAsYHQ/s200/10.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Action (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1460
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="CINE - Fox Premium Action (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-uNTrgaTVx8s/XaokWzZ50-I/AAAAAAAAAVk/CfjRcLTCspYo5uGCrtLeiFO-4RWONNJIgCLcBGAsYHQ/s200/10.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Action (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26741
+
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="CINE - Fox Premium Cinema (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-rzBglSrdKOA/XaokYLI7qNI/AAAAAAAAAVw/PKC1GJ4xlnQBonef0JmdEB7gHpHSxV9TQCLcBGAsYHQ/s200/14.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Cinema (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26740
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="CINE - Fox Premium Classics (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-YsDtzfioWlQ/XaokXbvRwGI/AAAAAAAAAVo/PhePwnC2PoQx_m1lSmraBx_4G-ZxXp42ACLcBGAsYHQ/s200/12.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Classics (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1463
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="CINE - Fox Premium Classics (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-YsDtzfioWlQ/XaokXbvRwGI/AAAAAAAAAVo/PhePwnC2PoQx_m1lSmraBx_4G-ZxXp42ACLcBGAsYHQ/s200/12.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Classics (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26739
+#EXTINF:-1 tvg-id="FoxComedy.mx" tvg-name="CINE - Fox Premium Comedy (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-q3HxfnoX1jo/XaokXzVkNJI/AAAAAAAAAVs/fNYw412NMz8WGcSt6Dc8rZe0nVWpFcwegCLcBGAsYHQ/s200/13.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Comedy (M)(1080) [Dual Audio]
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1464
+#EXTINF:-1 tvg-id="FoxComedy.mx" tvg-name="CINE - Fox Premium Comedy (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-q3HxfnoX1jo/XaokXzVkNJI/AAAAAAAAAVs/fNYw412NMz8WGcSt6Dc8rZe0nVWpFcwegCLcBGAsYHQ/s200/13.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Comedy (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1465
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="CINE - Fox Premium Family (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-qP7UWt4MhKE/XaokW4P6G2I/AAAAAAAAAVg/IFLc7i2fATUnS7pQWlFXuGPAiQg1UfgHACLcBGAsYHQ/s200/11.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Family (M)(1080) [Dual Audio]
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1466
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="CINE - Fox Premium Family (M)(720)" tvg-logo="https://1.bp.blogspot.com/-qP7UWt4MhKE/XaokW4P6G2I/AAAAAAAAAVg/IFLc7i2fATUnS7pQWlFXuGPAiQg1UfgHACLcBGAsYHQ/s200/11.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Family (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1467
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="CINE - Fox Premium Family Este (M)" tvg-logo="https://1.bp.blogspot.com/-qP7UWt4MhKE/XaokW4P6G2I/AAAAAAAAAVg/IFLc7i2fATUnS7pQWlFXuGPAiQg1UfgHACLcBGAsYHQ/s200/11.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Family Este (M)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1468
+#EXTINF:-1 tvg-id="FoxPremiumMovies.pa" tvg-name="CINE - Fox Premium Movies (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-S51cQoOPkyw/XaokYroPU9I/AAAAAAAAAV0/AvAYVXWiaPEQn9jkrwRGIh7kJdH_JSPKACLcBGAsYHQ/s200/15.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Movies (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26917
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="CINE - Fox Premium Movies (M)(720)" tvg-logo="https://1.bp.blogspot.com/-S51cQoOPkyw/XaokYroPU9I/AAAAAAAAAV0/AvAYVXWiaPEQn9jkrwRGIh7kJdH_JSPKACLcBGAsYHQ/s200/15.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Movies (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1469
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="CINE - Fox Premium Movies (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-S51cQoOPkyw/XaokYroPU9I/AAAAAAAAAV0/AvAYVXWiaPEQn9jkrwRGIh7kJdH_JSPKACLcBGAsYHQ/s200/15.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Movies (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26738
+#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="CINE - Fox Premium Series (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-r8Dh0m9YBxM/XaokYmo17UI/AAAAAAAAAV4/ilZgEaMm3voJFsZoOBsM8Hcz3xchRsYVACLcBGAsYHQ/s200/16.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Series (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26930
+#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="CINE - Fox Premium Series (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-r8Dh0m9YBxM/XaokYmo17UI/AAAAAAAAAV4/ilZgEaMm3voJFsZoOBsM8Hcz3xchRsYVACLcBGAsYHQ/s200/16.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Premium Series (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26737
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE - HBO (e)(720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (e)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1040
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE - HBO (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (e)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1041
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE - HBO 1 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 1 (e)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1043
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE - HBO 1 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 1 (e)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1044
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (e)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1031
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (e)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1032
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2 (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/52876
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="CINE - HBO Family (e)(720)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (e)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1034
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="CINE - HBO Family (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (e)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1035
+#EXTINF:-1 tvg-id="HBO Mundi Mexico" tvg-name="CINE - HBO Mundi (M)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/52878
+#EXTINF:-1 tvg-id="HBO Mundi Mexico" tvg-name="CINE - HBO Mundi (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53238
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="CINE - HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1434
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (M)(SD) [Dual Audio]
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/5340
+#EXTINF:-1 tvg-id="HBOPopMexicoAndCaribbean.mx" tvg-name="CINE - HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO POP (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1479
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="CINE - HBO Signature (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53239
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="CINE - HBO Signature (M)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/52879
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="CINE - HBO Signature (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53240
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="CINE - HBO Xtreme (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1481
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="CINE - HBO Xtreme (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1482
+
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - Paramount Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Paramount Channel (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1486
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - Paramount Channel (M)(720)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Paramount Channel (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1485
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="CINE - Showtime Dual (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-VvenvstIwWU/XxCHEA2BemI/AAAAAAAAAbY/Uz6jBlyD62EDAcFBEFh0g8zdr82cfNSggCLcBGAsYHQ/w200-h200/Showtime.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Showtime Dual (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53244
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="CINE - Showtime East Dual (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-mG7vQuKLEC4/XxCHEaiEw4I/AAAAAAAAAbc/NsNV_7U6HTM_EvD-B2U4s9cRh6aTKzlIgCLcBGAsYHQ/w200-h200/Showtime%2BEast.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Showtime East Dual (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53245
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="CINE - Showtime West Dual (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-1CyRY6HMjJE/XxCHEUy_trI/AAAAAAAAAbg/g0eCuMarEbA_5d3m7g468QjwKuXA91EjgCLcBGAsYHQ/w200-h200/Showtime%2BWEST.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Showtime West Dual (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/53243
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="CINE - Sony (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26910
+#EXTINF:-1 tvg-id="CineSony.mx" tvg-name="CINE - Sony (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26747
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.us" tvg-name="CINE - Sony Channel (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Sony Channel (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1487
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="CINE - Space (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Space (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26904
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="CINE - Space (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Space (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26759
+#EXTINF:-1 tvg-id="TVEIntEu.es" tvg-name="CINE - Star TVE (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ru5-dc21HTI/Xmvz5ztZLnI/AAAAAAAABZs/25I5OIJh_tEoTM5rCvQfFtj83-GqrI_fwCLcBGAsYHQ/s200/71.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Star TVE (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26911
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="CINE - Starz (M)(1080)" tvg-logo="https://1.bp.blogspot.co
+#EXTINF:0,PANICO HD
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:0,FMTV HD
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:0,Film&Arts HD
+https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/1200.m3u8
+
+#EXTINF:0,Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A&E (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26749
+#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="CINE - A3 Cine INT (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-NB9rkT-lYkM/Xw8qxPOt_nI/AAAAAAAAAWw/NIIAJUpL29cJdLEkeRfNyS527x8nxiX5ACLcBGAsYHQ/w200-h200/A3%2BCine.png" group-title="CANALES-ENTRETENIMIENTO",CINE - A3 Cine INT (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26971
+
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AMC (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26744
+
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="CANALES-ENTRETENIMIENTO",CINE - AXN (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26761
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CineCanal (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-ENTRETENIMIENTO",CINE - CineCanal (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26903
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - Cinecanal (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinecanal (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26753
+
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - Cinemax (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinemax (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26743
+
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="CINE - De Pelicula (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1448
+
+#EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="CINE - Europa Europa (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-hp_TVEc208E/Xg-BsZUcaKI/AAAAAAAAA48/eXROhRPKdKop12SD74yIK-zUaK-OZr_tACLcBGAsYHQ/s200/64.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Europa Europa (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26755
+#EXTINF:-1 tvg-id="FilmAndArts.mx" tvg-name="CINE - Film And Arts (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-0Ey1X4aOpGY/Xg-Cjv2sU3I/AAAAAAAAA5E/Dt5jR8PGYFY7JZ-at0mMfzEjV9MNqaRvwCLcBGAsYHQ/s200/65.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Film And Arts (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26745
+
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - Fox Sur (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-uB9WcVHoil0/XatMC2WaDWI/AAAAAAAAAcg/60gxjXoz1jMn2WRICr7_C1Ybqeq2dOgDwCLcBGAsYHQ/s200/9.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Sur (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1454
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-ENTRETENIMIENTO",CINE - FX (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26924
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="CANALES-ENTRETENIMIENTO",CINE - FX (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26746
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FXM (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png" group-title="CANALES-ENTRETENIMIENTO",CINE - FXM (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1458
+#EXTINF:-1 tvg-id="FXMovies.mx" tvg-name="CINE - FXM (M)(720)" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png" group-title="CANALES-ENTRETENIMIENTO",CINE - FXM (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26920
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - Golden (M)(720)" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1473
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - Golden (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-Bh76OnxXsM0/XatOPMpUwGI/AAAAAAAAAdI/Q5opFPrspk8mExeK-MKi4lptcYKK8LlqwCLcBGAsYHQ/s200/47.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1472
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="CINE - Golden Edge (M)(720)" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Edge (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1478
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="CINE - Golden Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Plus (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1476
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="CINE - Golden Plus (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Plus (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1477
+#EXTINF:-1 tvg-id="GoldenPremier.co" tvg-name="CINE - Golden Premiere (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premiere (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1474
+
+	Entretenimiento
+	---------------
+
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - FOX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-uB9WcVHoil0/XatMC2WaDWI/AAAAAAAAAcg/60gxjXoz1jMn2WRICr7_C1Ybqeq2dOgDwCLcBGAsYHQ/s200/9.png" group-title="CANALES-ENTRETENIMIENTO",CINE - FOX (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26901
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - Fox (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-uB9WcVHoil0/XatMC2WaDWI/AAAAAAAAAcg/60gxjXoz1jMn2WRICr7_C1Ybqeq2dOgDwCLcBGAsYHQ/s200/9.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26758
+
+
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="CINE - Fox Life (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-HDQ1PcJh17c/Xbf2EwVOBuI/AAAAAAAAAuc/AE1Vq7LWHFs6k6vN_wTHZ5j8DAkxhiCgQCLcBGAsYHQ/s200/59.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Fox Life (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26751
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="CINE - Distrito Comedia (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Distrito Comedia (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1451
+
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="CINE - Comedy Central (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Comedy Central (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/1446
+
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="CINE - E! (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="CANALES-ENTRETENIMIENTO",CINE - E! (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26913
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="CINE - E! (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="CANALES-ENTRETENIMIENTO",CINE - E! (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26760
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="CINE - El Gourmet (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png" group-title="CANALES-ENTRETENIMIENTO",CINE - El Gourmet (M)(1080)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26928
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="CINE - Food Network (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-7LnO12UdM74/XkOMWms5SLI/AAAAAAAABWw/1_TuyGdHKgUvadJu2umfY-JB3zGZvdzqQCLcBGAsYHQ/s200/68.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Food Network (M)(SD)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/26748
+
+	Culturales
+	----------
+
+#EXTINF:0,Smash Food
+http://a3.smashmalta.com:82/live/smash/smash/16.ts
+
+
+
+	Infantiles
+	----------
+
+
+
+
+	Musica
+	------
+
+
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="Musica", Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+#EXTINF:0,M2O TV HD
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:0,Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:0,CafèTV 24
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+
+#EXTINF:0,Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+
+#EXTINF:0,Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w607515073_b2028000_sleng.m3u8
+
+#EXTINF:0,Otto FM TV
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
+
+#EXTINF:0,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+
+#EXTINF:0,CANAL 88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+
+
+	Radio
+	-----
+
+
+#EXTINF:0,Italy: 51 Radio TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:0,Italy: Radio Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=o
+
+#EXTINF:0,Loca FM Ambient
+http://audio-online.net:8007/live
+
+#EXTINF:0,Loca FM Chill out
+http://audio-online.net:8002/live
+
+#EXTINF:0,Loca FM Trance
+http://audio-online.net:8010/live
+
+#EXTINF:0,Loca FM House
+http://audio-online.net:8005/live
+
+#EXTINF:0,Loca FM Tech House
+http://audio-online.net:8008/live
